@@ -1,3 +1,3 @@
-# EDA--Exploratory-Data-Analysis
+# Real-State-Data-Analysis
 Análise exploratória de dados utilizando base de dados do Kaggle
 - Pandas Profiling
